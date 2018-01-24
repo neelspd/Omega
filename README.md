@@ -8,22 +8,18 @@ Creep occurs in three stages: Primary, or Stage I; Secondary, or Stage II: and T
 This system which will aid the engineers in this evaluation by acquiring the data from the test setup every second and will plot the graph based on the acquired data and also save the data in CSV format for further processing and analysis.
 
 # Getting Started
-Connect Reaspberry Pi and Other Circuitory in Proper Manner
 The Components needed will be,
 
--> DHT 11 or any DHT Family Hygrometer and Temperature Sensor
+-> Arduino (Any Board)
 
--> Generic Soil Hygrometer
+-> Quadrature Rotary Endcoder
 
--> Raspberry Pi (Any Version)
+-> A Mechanical Pulley System.
 
--> Generic Relay Motor Driver Circuit
+For Software
 
--> Water pump
+-> Python on the system used to prepare observation and inferences.
 
--> Fan (Small Size)
-
-Note: I have Used Low Voltage Components on AC Supply via AC to DC converter.
 
 # Contributors
 ### Author : Neel Shah (https://bit.ly/2pSbJVN)
